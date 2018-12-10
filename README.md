@@ -13,4 +13,7 @@ You will also be able to edit items using the edit link, which should display an
 
 <img width="798" alt="screen shot 2018-12-10 at 9 50 05 am" src="https://user-images.githubusercontent.com/18974511/49751157-92387180-fc61-11e8-967e-0bab9d917d35.png">
 
+Lastly, you can mark an item as completed by checking its box.
+To complete this project you will need to begin working with React's state mechanisms and applying the principle of composition.
+
 
