@@ -1,6 +1,6 @@
 Very Simple ToDo App (VSTDA)
 
-Instructions for starting program
+Instructions for starting program,
 npm run build && npm start
 
 Introduction
