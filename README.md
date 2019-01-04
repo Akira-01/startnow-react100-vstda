@@ -1,4 +1,4 @@
-Very Simple ToDo App (VSTDA)
+Very Simple To Do App (VSTDA)
 
 Instructions for starting program,
 npm run build && npm start
