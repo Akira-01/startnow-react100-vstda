@@ -1,7 +1,8 @@
 # Very Simple To Do App (VSTDA)
 
 ## Instructions for starting program
-npm run build && npm start
+
+#### npm run build && npm start
 
 Introduction
 In this project you are going to build a to do app using React that allows users to enter their todo items and prioritize them based on their importance.
