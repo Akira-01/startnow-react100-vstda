@@ -12,7 +12,7 @@ In this project you are going to build a to do app using React that allows users
 
 <img width="800" alt="screen shot 2018-12-10 at 9 49 05 am" src="https://user-images.githubusercontent.com/18974511/49751022-3c63c980-fc61-11e8-9932-3bfc485b2802.png">
 
-## You will also be able to edit items using the edit link, which should display another form:
+#### You will also be able to edit items using the edit link, which should display another form:
 
 <img width="798" alt="screen shot 2018-12-10 at 9 50 05 am" src="https://user-images.githubusercontent.com/18974511/49751157-92387180-fc61-11e8-967e-0bab9d917d35.png">
 
