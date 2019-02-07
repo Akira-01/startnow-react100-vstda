@@ -1,4 +1,4 @@
-# Very Simple To Do App (VSTDA)
+# Very Simple To Do App 
 
 ## Instructions for starting program
 
