@@ -1,6 +1,6 @@
 # Very-Simple-To-Do-App 
 
-## Instructions for starting program
+## Setup
 
 #### npm run build && npm start
 
