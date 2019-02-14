@@ -2,7 +2,7 @@
 
 ## Setup
 
-#### npm run build && npm start
+$ npm install
 
 Introduction
 In this project you are going to build a to do app using React that allows users to enter their todo items and prioritize them based on their importance.
